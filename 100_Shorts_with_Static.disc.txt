@@ -159,14 +159,14 @@
 [000:00:00;000]
 [000:00:00;000]
 [000:00:00;000]
-[000:00:00;000]         (Wally mocking)
-[000:00:00;000]     (speaking jumbled letters)
-[000:00:00;000]           (TV beeping)
-[000:00:00;000]            (wailing)
-[000:00:00;000]           (laughing)
-[000:00:00;000]         (music playing)
-[000:00:00;000]    Sha, sha-ba-da, sha-ba-da
-[000:00:00;000]    Sha, sha-ba-da, sha-ba-da
+[001:00:00;000]         (Wally mocking)
+[001:00:00;000]     (speaking jumbled letters)
+[001:00:00;000]           (TV beeping)
+[001:00:00;000]            (wailing)
+[001:00:00;000]           (laughing)
+[001:00:00;000]         (music playing)
+[001:00:00;000]    Sha, sha-ba-da, sha-ba-da
+[001:00:00;000]    Sha, sha-ba-da, sha-ba-da
 [000:00:00;000]    Sha, sha-ba-da, sha-ba-da
 [000:00:00;000]    Sha, sha-ba-da, sha-ba-da
 [000:00:00;000]    Sha, sha-ba-da, sha-ba-da
